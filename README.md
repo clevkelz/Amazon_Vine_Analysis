@@ -31,8 +31,12 @@ The following table summarizes the results of the analysis:
 * Out of those totals, there were 10 and 3,448 five-start reviews for Vine and non-Vine reviews, respectively.
 * Five-star reviews comprised 47.6% of Vine reviews and 51.5% of non-Vine reviews, respectively.
 
+## Summary
 
+### Presence of Favorable Bias in Vine Reviews
 
+There does not appear to be a favorable bias in Vine reviews for luggage.  In fact, the percentage of five-start luggage reviews from non-Vine reviewers is slightly higher than the percentage for Vine reviewers. ![
 
+### Additional Analysis Recommended to Support the Conclusion
 
-
+This analysis should be repeated for different product types to see if this yields similar results, especially since the luggage category does not contain a large number of Vine reviews.  The code can be easily refactored to reflect a different product type.  
